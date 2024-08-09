@@ -6,27 +6,27 @@
 <hr>
 <div style="display: inline_block" class="iconsContainer">
   <br>
-  <img align="center" alt="Henrique-Jira" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
-  <img align="center" alt="Henrique-git" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Henrique-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henrique-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Henrique-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henrique-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henrique-Bootstrap" height="40" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="Henrique-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Henrique-Django" height="40" width="60" color="white" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="Henrique-NodeJS" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Henrique-Php" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Henrique-Selenium" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Henrique-Java" height="40" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Henrique-Pandas" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Henrique-Streamlit" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg">
-  <a style="color: white; font-family: 'Comic Sans MS', Cursive; margin-right: 40px;">Flask</a>&nbsp;
-  <img align="center" alt="Henrique-TensorFlow" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
-  <img align="center" alt="Henrique-Mysql" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Henrique-Sqlite" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Henrique-PostgreSQL" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  <img style="color: white" align="center" alt="Henrique-Java" height="40" width="60" color="white" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Jira" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
+  &nbsp;<img align="center" alt="Henrique-git" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  &nbsp;<img align="center" alt="Henrique-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;<img align="center" alt="Henrique-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
+  &nbsp;<img align="center" alt="Henrique-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
+  &nbsp;<img align="center" alt="Henrique-Bootstrap" height="40" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
+  &nbsp;<img align="center" alt="Henrique-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Django" height="40" width="60" color="white" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  &nbsp;<img align="center" alt="Henrique-NodeJS" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  &nbsp;<img align="center" alt="Henrique-Php" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Selenium" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Java" height="40" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Pandas" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Streamlit" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg">
+  &nbsp;<a style="color: white; font-family: 'Comic Sans MS', Cursive; margin-right: 40px;">Flask</a>&nbsp;
+  &nbsp;<img align="center" alt="Henrique-TensorFlow" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
+  &nbsp;<img align="center" alt="Henrique-Mysql" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  &nbsp;<img align="center" alt="Henrique-Sqlite" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  &nbsp;<img align="center" alt="Henrique-PostgreSQL" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
+  &nbsp;<img style="color: white" align="center" alt="Henrique-Java" height="40" width="60" color="white" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 <hr>
 <br>
