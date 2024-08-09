@@ -2,7 +2,7 @@
 <h2>Meu nome é Henrique Sanches, tenho 27 anos e sou um Desenvolvedor apaixonado pelo mundo de Linguagens de Programação e Automações de Tarefas</h2>
 <h4>Também sou um Desenvolvedor Freelancer na Upwork e Workana, com projetos sólidos de Front-end, Back-end, Fullstack e Automações precisas utilizando Python, Selenium, Pandas, NumPy e TensorFlow</h4>
 <br>
-<h2 align="center">Um pouco das Linguagens que sei caminhar:</h2>
+<h2 align="center">Um pouco das Linguagens e tecnologias que sei caminhar:</h2>
 <hr>
 <div style="display: inline_block" class="iconsContainer">
   <br>
