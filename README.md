@@ -34,7 +34,7 @@
 <p>&nbsp;&nbsp;Acredito que a principal função de um programador é proporcionar soluções ou otimizar processos utilizando a tecnologia que melhor se adequa à situação. Apesar de possuir preferência por determinadas linguagens de programação, destaco-me pela versatilidade no uso de diversas linguagens. Considero, ainda, que minha maior qualidade reside na capacidade de compreender problemas e identificar possíveis soluções por meio da tecnologia mais adequada ou previamente selecionada, independentemente do foco ser em Front-end, Back-end, Automação de Tarefas ou Análise de Dados.</p>
 <p>&nbsp;&nbsp;Meu objetivo é continuar aprimorando e expandindo meu conjunto de habilidades, buscando oportunidades que me permitam contribuir de maneira significativa para projetos inovadores e de alto impacto. Almejo integrar equipes que me desafiem a explorar novos horizontes e a desenvolver soluções que façam a diferença, enquanto cresço como profissional e adiciono valor à organização. O que me move é a paixão pela Tecnologia e, em especial, pelo estudo de Linguagens de Programação, que considero fundamentais para a criação e a otimização de processos. Meu foco é manter um compromisso constante com a excelência, assumindo responsabilidades que impulsionem tanto meu desenvolvimento pessoal quanto o sucesso dos projetos aos quais me dedico</p>
 <hr>
-<div>
+<div align="center">
   <h4>Contate-me:</h4>
   <p>Link do Curriculo e Linkedin</p>
   <a href="https://drive.google.com/file/d/1qYXXW6yezTrWkxaLVEKoH5GH8Ev7rmVy/view?usp=drive_link"><img height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></a>&nbsp;&nbsp;
