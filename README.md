@@ -37,7 +37,6 @@
 <hr>
 <div align="center">
   <h4>Contate-me:</h4>
-  <p>Link do Curriculo e Linkedin</p>
-  <a href="https://drive.google.com/file/d/1qYXXW6yezTrWkxaLVEKoH5GH8Ev7rmVy/view?usp=drive_link"><img height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></a>&nbsp;&nbsp;
+  <p>Link do Linkedin</p>
   &nbsp;&nbsp;<a href="https://www.linkedin.com/in/henrique-quitti-sanches-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
