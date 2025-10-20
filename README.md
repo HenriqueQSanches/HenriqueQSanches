@@ -1,43 +1,45 @@
 <h1>Olá! ✌</h1>
-<h2>Meu nome é Henrique Sanches, tenho 28 anos e sou um Desenvolvedor apaixonado pelo mundo de Linguagens de Programação e Automações de Tarefas</h2>
-<h4>Desenvolvedor Fullstack com mais de 2 anos de experiência na criação e implementação de sistemas web e para diversos segmentos de mercado. Atuo no desenvolvimento de soluções completas utilizando tecnologias como JavaScript (ES6+), TypeScript, React, Node.js, PHP e Laravel, com conhecimento sólido em bancos de dados MySQL, PostgreSQL e SQLite. Especialista na construção de APIs RESTful, automações com Python e implementação de sistemas que otimizam processos em diversos segmentos de negócio.</h4>
+<h2>Meu nome é Henrique Sanches, tenho 28 anos e sou um Desenvolvedor Fullstack apaixonado por tecnologia e inovação</h2>
+<h4>Desenvolvedor Fullstack com mais de 2 anos de experiência na criação e implementação de sistemas web para diversos segmentos de mercado. Atuo no desenvolvimento de soluções completas utilizando tecnologias como JavaScript (ES6+), TypeScript, React, Node.js, PHP e Laravel, com conhecimento sólido em bancos de dados MySQL, PostgreSQL e SQLite. Especialista na construção de APIs RESTful, automações com Python e implementação de sistemas que otimizam processos e melhoram indicadores de negócio.</h4>
 <br>
-<h2 align="center">Um pouco das Linguagens e tecnologias que sei caminhar:</h2>
-<h5>Desenvolvimento Fullstack | JavaScript (ES6+) | TypeScript | React | Next.js | Node.js | Express | NestJS | PHP | Laravel | CodeIgniter | API RESTful | Bancos de Dados (MySQL, PostgreSQL, SQLite) | Git | GitHub | GitLab | Metodologias Ágeis | HTML5 | CSS3 | Bootstrap | Tailwind | Python | Automação | Clean Code | SOLID | Versionamento | Desenvolvimento Web | Vue.js | Selenium | CI/CD | Ubuntu | Documentação Técnica | Resolução de Problemas | Arquitetura MVC | DAO | JSON | XML | Responsividade | Jira</h5>
+<h2 align="center">Linguagens e Tecnologias:</h2>
+<h5>Desenvolvimento Fullstack | JavaScript (ES6+) | TypeScript | React | Next.js | Node.js | Express | NestJS | PHP | Laravel | CodeIgniter | API RESTful | Bancos de Dados (MySQL, PostgreSQL, SQLite, SQL Server) | Git | GitHub | GitLab | Metodologias Ágeis | HTML5 | CSS3 | Bootstrap | Tailwind CSS | Python | Automação | Clean Code | SOLID | Versionamento | Desenvolvimento Web | Vue.js | Selenium | CI/CD | Documentação Técnica | Resolução de Problemas | Arquitetura MVC | DAO | JSON | XML | Responsividade | Jira</h5>
 <hr>
 <div style="display: inline_block" class="iconsContainer">
   <br>
-  &nbsp;<img align="center" alt="Henrique-Jira" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
-  &nbsp;<img align="center" alt="Henrique-git" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   &nbsp;<img align="center" alt="Henrique-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;<img align="center" alt="Henrique-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;<img align="center" alt="Henrique-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-  &nbsp;<img align="center" alt="Henrique-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
-  &nbsp;<img align="center" alt="Henrique-Bootstrap" height="40" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
-  &nbsp;<img align="center" alt="Henrique-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;<img align="center" alt="Henrique-Django" height="40" width="60" color="white" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  &nbsp;<img align="center" alt="Henrique-NodeJS" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  &nbsp;<img align="center" alt="Henrique-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  &nbsp;<img align="center" alt="Henrique-TypeScript" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  &nbsp;<img align="center" alt="Henrique-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  &nbsp;<img align="center" alt="Henrique-NextJS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Vue" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Bootstrap" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Tailwind" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  &nbsp;<img align="center" alt="Henrique-NodeJS" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Express" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  &nbsp;<img align="center" alt="Henrique-NestJS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   &nbsp;<img align="center" alt="Henrique-Php" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Laravel" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  &nbsp;<img align="center" alt="Henrique-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;<img align="center" alt="Henrique-Selenium" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-  &nbsp;<img align="center" alt="Henrique-Java" height="40" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  &nbsp;<img align="center" alt="Henrique-Pandas" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  &nbsp;<img align="center" alt="Henrique-Streamlit" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg">
-  &nbsp;<a style="color: white; font-family: 'Comic Sans MS', Cursive; margin-right: 40px;">Flask</a>&nbsp;
-  &nbsp;<img align="center" alt="Henrique-TensorFlow" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
-  &nbsp;<img align="center" alt="Henrique-Mysql" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-  &nbsp;<img align="center" alt="Henrique-Sqlite" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Mysql" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   &nbsp;<img align="center" alt="Henrique-PostgreSQL" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  &nbsp;<img style="color: white" align="center" alt="Henrique-Java" height="40" width="60" color="white" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Git" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  &nbsp;<img align="center" alt="Henrique-GitHub" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  &nbsp;<img align="center" alt="Henrique-GitLab" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
+  &nbsp;<img align="center" alt="Henrique-Jira" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
 </div>
 <hr>
 <br>
 <h1 align="center">Sobre mim:</h1>
-<p>&nbsp;&nbsp;Acredito que a principal função de um programador é proporcionar soluções ou otimizar processos utilizando a tecnologia que melhor se adequa à situação. Apesar de possuir preferência por determinadas linguagens de programação, destaco-me pela versatilidade no uso de diversas linguagens. Considero, ainda, que minha maior qualidade reside na capacidade de compreender problemas e identificar possíveis soluções por meio da tecnologia mais adequada ou previamente selecionada, independentemente do foco ser em Front-end, Back-end, Automação de Tarefas ou Análise de Dados.</p>
-<p>&nbsp;&nbsp;Meu objetivo é continuar aprimorando e expandindo meu conjunto de habilidades, buscando oportunidades que me permitam contribuir de maneira significativa para projetos inovadores e de alto impacto. Almejo integrar equipes que me desafiem a explorar novos horizontes e a desenvolver soluções que façam a diferença, enquanto cresço como profissional e adiciono valor à organização. O que me move é a paixão pela Tecnologia e, em especial, pelo estudo de Linguagens de Programação, que considero fundamentais para a criação e a otimização de processos. Meu foco é manter um compromisso constante com a excelência, assumindo responsabilidades que impulsionem tanto meu desenvolvimento pessoal quanto o sucesso dos projetos aos quais me dedico</p>
+<p>&nbsp;&nbsp;Desenvolvedor Fullstack com mais de 2 anos de experiência na criação de soluções tecnológicas completas. Ao longo da minha trajetória, implementei sistemas de gerenciamento financeiro, aplicações para clínicas, automações de processos e soluções de validação para eventos que resultaram em otimização operacional e melhoria nos indicadores de negócio.</p>
+<p>&nbsp;&nbsp;Trabalho com metodologias ágeis e desenvolvimento orientado a testes, sempre comprometido com boas práticas de programação como Clean Code e SOLID. Tenho capacidade de trabalhar em projetos completos do conceito à implementação, tanto individualmente quanto em equipe, garantindo soluções eficientes e escaláveis.</p>
+<p>&nbsp;&nbsp;Minha principal habilidade é a versatilidade em adaptar-me a diferentes linguagens e ambientes, sempre com foco em entender profundamente os problemas e identificar as melhores soluções tecnológicas, seja em Frontend, Backend, APIs RESTful ou Automação de Processos.</p>
 <hr>
 <div align="center">
   <h4>Contate-me:</h4>
-  <p>Link do Linkedin e Curriculo</p>
-  <a href="https://drive.google.com/file/d/1vGvtROUrZUQneBIjqZJwwTMAypltUtR8/view?usp=drive_link"><img height="40" width="60"   src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></a>&nbsp;&nbsp;
+  <p>LinkedIn e Currículo</p>
+  <a href="https://drive.google.com/file/d/1qYXXW6yezTrWkxaLVEKoH5GH8Ev7rmVy/view"><img height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></a>&nbsp;&nbsp;
   &nbsp;&nbsp;<a href="https://www.linkedin.com/in/henrique-quitti-sanches-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
