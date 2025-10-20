@@ -15,12 +15,9 @@
   &nbsp;<img align="center" alt="Henrique-NextJS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   &nbsp;<img align="center" alt="Henrique-Vue" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   &nbsp;<img align="center" alt="Henrique-Bootstrap" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  &nbsp;<img align="center" alt="Henrique-Tailwind" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   &nbsp;<img align="center" alt="Henrique-NodeJS" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   &nbsp;<img align="center" alt="Henrique-Express" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  &nbsp;<img align="center" alt="Henrique-NestJS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   &nbsp;<img align="center" alt="Henrique-Php" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  &nbsp;<img align="center" alt="Henrique-Laravel" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   &nbsp;<img align="center" alt="Henrique-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;<img align="center" alt="Henrique-Selenium" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   &nbsp;<img align="center" alt="Henrique-Mysql" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
