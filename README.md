@@ -31,13 +31,6 @@ Desenvolvo soluções escaláveis com impacto direto na eficiência operacional 
   &nbsp;<img align="center" alt="Henrique-GitLab" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
   &nbsp;<img align="center" alt="Henrique-Jira" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
 </div>
-<hr>
-<br>
-<h1 align="center">Sobre mim:</h1>
-<p>&nbsp;&nbsp;Desenvolvedor Fullstack com mais de 2 anos de experiência na criação de soluções tecnológicas completas. Ao longo da minha trajetória, implementei sistemas de gerenciamento financeiro, aplicações para clínicas, automações de processos e soluções de validação para eventos que resultaram em otimização operacional e melhoria nos indicadores de negócio.</p>
-<p>&nbsp;&nbsp;Trabalho com metodologias ágeis e desenvolvimento orientado a testes, sempre comprometido com boas práticas de programação como Clean Code e SOLID. Tenho capacidade de trabalhar em projetos completos do conceito à implementação, tanto individualmente quanto em equipe, garantindo soluções eficientes e escaláveis.</p>
-<p>&nbsp;&nbsp;Minha principal habilidade é a versatilidade em adaptar-me a diferentes linguagens e ambientes, sempre com foco em entender profundamente os problemas e identificar as melhores soluções tecnológicas, seja em Frontend, Backend, APIs RESTful ou Automação de Processos.</p>
-<hr>
 <div align="center">
   <h4>Contate-me:</h4>
   <p>LinkedIn e Currículo</p>
