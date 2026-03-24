@@ -1,6 +1,10 @@
 <h1>Olá! ✌</h1>
 <h2>Meu nome é Henrique Sanches, tenho 28 anos e sou um Desenvolvedor Fullstack apaixonado por tecnologia e inovação</h2>
-<h4>Desenvolvedor Fullstack com mais de 2 anos de experiência na criação e implementação de sistemas web para diversos segmentos de mercado. Atuo no desenvolvimento de soluções completas utilizando tecnologias como JavaScript (ES6+), TypeScript, React, Node.js, PHP e Laravel, com conhecimento sólido em bancos de dados MySQL, PostgreSQL e SQLite. Especialista na construção de APIs RESTful, automações com Python e implementação de sistemas que otimizam processos e melhoram indicadores de negócio.</h4>
+<h4>Desenvolvedor Fullstack com 3+ anos de experiência na construção de sistemas web, plataformas SaaS e automações, com foco em backend utilizando Node.js e TypeScript e desenvolvimento frontend com React.
+Possuo experiência em arquitetura de APIs, integrações, otimização de processos e gestão de infraestrutura (VPS/Hostinger).
+Atuei como referência técnica em equipe, realizando code reviews, aprovação de merge requests e apoiando desenvolvedores na padronização e qualidade do código.
+Desenvolvo soluções escaláveis com impacto direto na eficiência operacional e evolução dos produtos.
+</h4>
 <br>
 <h2 align="center">Linguagens e Tecnologias:</h2>
 <h5>Desenvolvimento Fullstack | JavaScript (ES6+) | TypeScript | React | Next.js | Node.js | Express | NestJS | PHP | Laravel | CodeIgniter | API RESTful | Bancos de Dados (MySQL, PostgreSQL, SQLite, SQL Server) | Git | GitHub | GitLab | Metodologias Ágeis | HTML5 | CSS3 | Bootstrap | Tailwind CSS | Python | Automação | Clean Code | SOLID | Versionamento | Desenvolvimento Web | Vue.js | Selenium | CI/CD | Documentação Técnica | Resolução de Problemas | Arquitetura MVC | DAO | JSON | XML | Responsividade | Jira</h5>
